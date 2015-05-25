@@ -1,0 +1,21 @@
+.RemoveNewsSection{
+    vertical-align: top;
+    display: inline-block;
+    border: solid 1px;
+    width: 48%;
+    height: 250px;
+}
+
+.SpecialNews{
+    vertical-align: top;
+    display: inline-block;
+    border: solid 1px;
+    width: 48%;
+    height: 250px;
+}
+
+.RemoveNewsSection *{
+    
+    margin-bottom: 5px;
+    
+}
